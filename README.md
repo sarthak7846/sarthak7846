@@ -11,7 +11,7 @@
 </div>
 
 **<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sarthak-kumar-behera" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="36" style="margin-right: 4px"></a></p>
+<p align="center"><a href="https://x.com/SarthakBeh53677" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sarthak-kumar-behera" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="36" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">A full-stack engineer with experience building production-grade web and mobile applications for real users. I’ve worked on hiring platforms, travel products, and SaaS apps, where I owned everything from API design and database performance to real-time messaging and frontend features.</h3>**
 
