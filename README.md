@@ -21,7 +21,7 @@
 - 🌱 I'm currently learning: **📚 Diving into tRPC & gRPC**
 - 💬 Ask me about: **💡 Nest.js, Next.js, Prisma, PostgreSQL, MongoDB, BullMQ, RabbitMQ**
 - ⚡ Fun fact: **🛰️ I once debugged an issue while in space!**
-- 📂 Portfolio: **<a href="https://sarthaks-portfolio.vercel.app/" target="_blank">https://sarthaks-portfolio.vercel.app/</a>**
+- 📂 Portfolio: **<a href="[https://sarthaks-portfolio.vercel.app/](https://engineer-sarthak.vercel.app/)" target="_blank">My Portfolio</a>**
 
  **<h3 align="left">Skills</h3>**
 
