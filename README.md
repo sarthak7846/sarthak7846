@@ -17,7 +17,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Server Uptime Status Monitoring Service**
+- 💼 I'm currently working on: **💻 AI Interviewer**
 - 🌱 I'm currently learning: **📚 Diving into tRPC & gRPC**
 - 💬 Ask me about: **💡 Nest.js, Next.js, Prisma, PostgreSQL, MongoDB, BullMQ, RabbitMQ**
 - ⚡ Fun fact: **🛰️ I once debugged an issue while in space!**
